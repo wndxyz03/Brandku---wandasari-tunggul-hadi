@@ -1,0 +1,25 @@
+.brand{
+    background-color: brown;
+}
+
+.navbar{
+    background-color: rgb(156, 174, 82);
+}
+
+.nama{
+    background-color: rgb(192, 192, 10);
+}
+
+.artikelnya{
+    background-color: aqua;
+}
+
+.NamaFitur{
+    background-color: rgb(190, 77, 124);
+}
+
+body{
+           border: 2px solid rgb(28, 34, 37);
+           background-color: rgb(144, 193, 38);
+}
+
